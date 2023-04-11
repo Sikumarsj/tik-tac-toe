@@ -1,4 +1,4 @@
-//Tik Tac Toe Game
+//Tik Tac Toe Game.
 
 import java.util.Scanner;
 
